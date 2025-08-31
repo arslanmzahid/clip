@@ -2,6 +2,10 @@
 
 Type a text query and retrieve the most similar images from a folder using **CLIP** embeddings and **FAISS** vector search.
 
+![Demo Screenshot](assets/1.png)
+![Demo Screenshot](assets/2.png)
+
+
 ![CLIP Visual Search Demo](https://img.shields.io/badge/AI-CLIP--powered-blue) ![Python](https://img.shields.io/badge/python-3.11+-green) ![Streamlit](https://img.shields.io/badge/streamlit-webapp-red)
 
 ## 🌟 Features
